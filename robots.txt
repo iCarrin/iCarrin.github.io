@@ -1,1 +1,1 @@
-Sitemap: https://iCarrin.github.io/Isaiahs-data-science-reop/sitemap.xml
+Sitemap: https://iCarrin.github.io/sitemap.xml
