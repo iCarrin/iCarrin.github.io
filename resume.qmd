@@ -1,86 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Isaiah Carrin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Isaiah Carrin
+Computer Science major, machine learning emphasis. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/iCarrin">iCarrin github</a>
+|<a href="www.linkedin.com/in/isaiah-carrin">Isaiah Carrin Linkden</a>
 </div>
 
 
 ## Currently
-
-Standing on the shoulders of giants
+Finishing a bachelors 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+React, Python, C#, and Cabinetry
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024-Present`  
+__Carpet Cleaner Technician__, East Idaho Carpet Cleaners, Idaho Falls, ID  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2024`  
+__Pest Control Route Manager__, Elevate Pest Control, Rexburg, ID  
 
-- Sizar
+`2024`  
+__HVAC Installer Apprentice__, IF Ductless Heating & Air, Rexburg, ID  
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2022-2024`  
+__Warehouse Associate / Receptionist__, Palmer's Metal Mart, North Logan, UT  
 
-- Fellow
+`2022`  
+__Carpenter / Painter__, Westates Construction, Logan, UT  
 
+`2022`  
+__Carpet Technician__, Zerorez, Logan, UT  
 
+`2022`  
+__Manufacturing Associate__, The Stow Company, Rexburg, ID  
 
-## Awards
+`2021-2022`  
+__Hardlines Team Member__, Walmart, Rexburg, ID  
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`  
+__Temp Operation Worker__, IES Custom Staffing, Idaho Falls, ID  
 
-Associate, *French Academy of Science*, Paris, France
+`2021`  
+__Mover__, College Movers, Rexburg, ID  
 
+`2021`  
+__Sales Associate__, Progrexion / Credit.com, Rexburg, ID  
 
+`2019-2020`  
+__Cabinet Maker__, Clayton Fixtures, Ellenwood, GA  
 
-## Publications
+`2017-2019`  
+__Missionary__, The Church of Jesus Christ of Latter-day Saints, Anaheim, CA  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016-2017`  
+__Sales Associate__, rue21, Stockbridge, GA  
 
 
 
